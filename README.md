@@ -11,6 +11,6 @@
 | - | 	Represents any single character within the specified range * |
 | {} | Represents any escaped character ** |
 
-> "*" Not supported in PostgreSQL and MySQL databases.
+> \* Not supported in PostgreSQL and MySQL databases.
 
-> "**" Supported only in Oracle databases.
+> \** Supported only in Oracle databases.
